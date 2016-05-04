@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-  fmt.Printf(gostringutil.Reverse("!oG olleH"))
+  fmt.Printf(gostringutil.Reverse("\n!oG olleH"))
 }
